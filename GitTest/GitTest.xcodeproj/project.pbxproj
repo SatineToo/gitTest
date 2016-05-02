@@ -15,6 +15,7 @@
 		2822E5D21CCF33EC0049F132 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2822E5D01CCF33EC0049F132 /* LaunchScreen.storyboard */; };
 		2822E5DD1CCF33EC0049F132 /* GitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2822E5DC1CCF33EC0049F132 /* GitTestTests.m */; };
 		2822E5E81CCF33EC0049F132 /* GitTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2822E5E71CCF33EC0049F132 /* GitTestUITests.m */; };
+		28E8666C1CD75B3600D9C089 /* add_function in Resources */ = {isa = PBXBuildFile; fileRef = 28E8666B1CD75B3600D9C089 /* add_function */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2822E5E31CCF33EC0049F132 /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2822E5E71CCF33EC0049F132 /* GitTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestUITests.m; sourceTree = "<group>"; };
 		2822E5E91CCF33EC0049F132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28E8666B1CD75B3600D9C089 /* add_function */ = {isa = PBXFileReference; lastKnownFileType = folder; path = add_function; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		2822E5C11CCF33EC0049F132 /* GitTest */ = {
 			isa = PBXGroup;
 			children = (
+				28E8666B1CD75B3600D9C089 /* add_function */,
 				2822E5C51CCF33EC0049F132 /* AppDelegate.h */,
 				2822E5C61CCF33EC0049F132 /* AppDelegate.m */,
 				2822E5C81CCF33EC0049F132 /* ViewController.h */,
@@ -245,6 +248,7 @@
 			files = (
 				2822E5D21CCF33EC0049F132 /* LaunchScreen.storyboard in Resources */,
 				2822E5CF1CCF33EC0049F132 /* Assets.xcassets in Resources */,
+				28E8666C1CD75B3600D9C089 /* add_function in Resources */,
 				2822E5CD1CCF33EC0049F132 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +502,7 @@
 				2822E5EE1CCF33EC0049F132 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2822E5EF1CCF33EC0049F132 /* Build configuration list for PBXNativeTarget "GitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +511,7 @@
 				2822E5F11CCF33EC0049F132 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2822E5F21CCF33EC0049F132 /* Build configuration list for PBXNativeTarget "GitTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +520,7 @@
 				2822E5F41CCF33EC0049F132 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
