@@ -22,6 +22,8 @@
     
     //LALALLALLALALAL
 //    ！！！！！！！！
+    //new code
+    btn.backgroundColor = [UIColor grayColor];
     [self self];
     // Do any additional setup after loading the view, typically from a nib.
 }
