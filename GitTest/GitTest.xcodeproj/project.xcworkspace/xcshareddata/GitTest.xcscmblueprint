@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8423CCFA4DCDB620EAAFD26F11E2836768764556",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8423CCFA4DCDB620EAAFD26F11E2836768764556" : 9223372036854775807,
+    "217AA80877873492967223DBDEA20ABFFB9A1B67" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "017E0754-3D77-4159-BD12-D2C5B820F888",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8423CCFA4DCDB620EAAFD26F11E2836768764556" : "gitTest\/",
+    "217AA80877873492967223DBDEA20ABFFB9A1B67" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GitTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitTest\/GitTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mTz0206\/CTY_test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "217AA80877873492967223DBDEA20ABFFB9A1B67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mTz0206\/gitTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8423CCFA4DCDB620EAAFD26F11E2836768764556"
+    }
+  ]
+}
